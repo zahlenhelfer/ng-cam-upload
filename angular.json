@@ -119,6 +119,10 @@
           }
         }
       }
-    }},
-  "defaultProject": "ng-camera-upload"
+    }
+  },
+  "defaultProject": "ng-camera-upload",
+  "cli": {
+    "analytics": "e9c919b8-170c-4fd6-9d85-a4b7aa3bf222"
+  }
 }
