@@ -2,6 +2,7 @@
   <div><video #video id="video" width="640" height="480" autoplay></video></div>
   <div><button id="snap" (click)="capture()">Snap Photo</button></div>
   <canvas #canvas id="canvas" width="640" height="480"></canvas>
+  <h1>Test</h1>
   <ul>
     <li *ngFor="let c of captures">
       <img src="{{ c }}" height="50" />
